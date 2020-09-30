@@ -1,3 +1,3 @@
 # Budget App : Tomas Uribe Tobon
 The Budget App is intended to allow the user to keep track of their expenses. The user inputs their income and expenses for the month and the app keeps track of each of the respective totals. The app is also able to remove entries to allow for a more robust interface. The application is capable of calculating the total expense to income percentage as well as the indivdual expense to income percentages. Additionally, the expenses are sorted in descending order so the user is always able to see their highest expenses on the top of the list. This project was completed in JavaScript (NOTE: HTML and CSS code was provided by course instructor)
-![alt text](https://github.com/tomasu10/BudgetApp/blob/master/BudgetApp/FinalResultGIF.gif) 
+![alt text](https://github.com/tomasu10/BudgetApp/blob/master/FinalResultGIF.gif) 
